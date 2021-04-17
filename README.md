@@ -8,7 +8,7 @@ Practice plugin for Spigot/Bukkit Minecraft Servers
 Place the file from the build folder into your server's plugin folder
 
 # Permissions
-bPermissions.RanCom.EC (allows the user to open their enderchest) \n
-bPermissions.RanCom.ShowHide (allows the user to hide or show other players)
-bPermissions.RanCom.Fly (allows the user to fly in survival mode)
-bPermissions.RanCom.Heal (allows the user to gain full health and hunger)
+bPermissions.RanCom.EC (allows the user to open their enderchest)  
+bPermissions.RanCom.ShowHide (allows the user to hide or show other players)  
+bPermissions.RanCom.Fly (allows the user to fly in survival mode)  
+bPermissions.RanCom.Heal (allows the user to gain full health and hunger)  
