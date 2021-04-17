@@ -1,0 +1,19 @@
+name: Random_Commands
+version: 1.0
+main: io.github.ThorAblestar.Main
+commands:
+  Heal:
+    description: Heals the person using the command
+    usage: /Heal
+  Fly:
+    description: Allows the person using the command to fly
+    usage: /Fly
+  Show:
+    description: Allows all other players to be visible to the person using the command
+    usage: /Show
+  Hide:
+    description: Hides all other players from the person using the command
+    usage: /Hide
+  EnderChest:
+    description: Allows you to view your enderchest from anywhere
+    usage: /EnderChest
