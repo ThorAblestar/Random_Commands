@@ -5,7 +5,7 @@ Practice plugin for Spigot/Bukkit Minecraft Servers
 1.0-SNAPSHOT
 
 # How to use
-Place the full build in [Random_Commands/target] titled "Random_Commands-<Version>" into your servers Plugin folder
+Place the file from the build folder into your server's plugin folder
 
 # Permissions
 bPermissions.RanCom.EC (allows the user to open their enderchest)
