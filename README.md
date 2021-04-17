@@ -4,6 +4,9 @@ Practice plugin for Spigot/Bukkit Minecraft Servers
 # Version
 1.0-SNAPSHOT
 
+# How to use
+Place the full build in [main/target] titled "Random_Commands-[Version]" into your servers Plugin folder
+
 # Permissions
 bPermissions.RanCom.EC (allows the user to open their enderchest)
 bPermissions.RanCom.ShowHide (allows the user to hide or show other players)
